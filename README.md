@@ -7,4 +7,6 @@
 5. Ratings
 6. Description, date added, Duration, Rating, Release Year and Genre of each movie and TV show
 
+![IMAGE](https://i.ytimg.com/vi/BTArwS4ljC4/maxresdefault.jpg)
+
 Dataset : https://www.kaggle.com/code/chirag9073/netflix-data-analysis/data?select=netflix_titles.csv
